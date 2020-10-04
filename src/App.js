@@ -79,7 +79,7 @@ export default function App() {
         <Toolbar>
           <Typography className={classes.title} variant="h6" noWrap>
             <img src={logo} alt="logo" className={classes.logo} />
-            big9Tv
+            BIG9TV
           </Typography>
         </Toolbar>
       </AppBar>

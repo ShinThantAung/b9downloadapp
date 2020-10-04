@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13fed0b558728cd3d0108eabd0524639",
+    "revision": "68ef72328587c2a4d833a2cccb2f9551",
     "url": "/b9downloadapp/index.html"
   },
   {
-    "revision": "2f331459cc43819930f3",
+    "revision": "87e0b01918a8d740b56c",
     "url": "/b9downloadapp/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/b9downloadapp/static/js/2.24c5937c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f331459cc43819930f3",
-    "url": "/b9downloadapp/static/js/main.8966a452.chunk.js"
+    "revision": "87e0b01918a8d740b56c",
+    "url": "/b9downloadapp/static/js/main.63302c9a.chunk.js"
   },
   {
     "revision": "c601ffa8ff804b19e990",

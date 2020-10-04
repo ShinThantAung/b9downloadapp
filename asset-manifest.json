@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/b9downloadapp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/b9downloadapp/static/js/main.8966a452.chunk.js",
+    "main.js.map": "/b9downloadapp/static/js/main.8966a452.chunk.js.map",
+    "runtime-main.js": "/b9downloadapp/static/js/runtime-main.1b6b7d77.js",
+    "runtime-main.js.map": "/b9downloadapp/static/js/runtime-main.1b6b7d77.js.map",
+    "static/js/2.24c5937c.chunk.js": "/b9downloadapp/static/js/2.24c5937c.chunk.js",
+    "static/js/2.24c5937c.chunk.js.map": "/b9downloadapp/static/js/2.24c5937c.chunk.js.map",
+    "index.html": "/b9downloadapp/index.html",
+    "precache-manifest.7cfe6a68fe81b4d899a3fb58b217dd29.js": "/b9downloadapp/precache-manifest.7cfe6a68fe81b4d899a3fb58b217dd29.js",
+    "service-worker.js": "/b9downloadapp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/b9downloadapp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.24c5937c.chunk.js.LICENSE.txt": "/b9downloadapp/static/js/2.24c5937c.chunk.js.LICENSE.txt",
+    "static/media/big9tv.png": "/b9downloadapp/static/media/big9tv.5650db29.png",
+    "static/media/downloadbig9image.png": "/b9downloadapp/static/media/downloadbig9image.15dd9744.png",
+    "static/media/downloadplaystore-logo.gif": "/b9downloadapp/static/media/downloadplaystore-logo.2c1fab0a.gif",
+    "static/media/login-bg.png": "/b9downloadapp/static/media/login-bg.8f2dbdb5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b6b7d77.js",
+    "static/js/2.24c5937c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8966a452.chunk.js"
+  ]
+}
